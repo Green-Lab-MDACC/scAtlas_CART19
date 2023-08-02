@@ -1,0 +1,248 @@
+HGNC ID	Approved symbol	Approved name	Status	Locus type	Previous symbols	Alias symbols	Chromosome	NCBI Gene ID	Ensembl gene ID	Vega gene ID	Group ID	Group name
+HGNC:12027	TRA	T cell receptor alpha locus	Approved	gene with protein product	TCRA, TRA@		14q11.2	6955			371	T cell receptor alpha locus at 14q11.2
+HGNC:12146	TRAV8-1	T cell receptor alpha variable 8-1	Approved	T cell receptor gene			14q11.2	28685	ENSG00000211782	OTTHUMG00000168986	371	T cell receptor alpha locus at 14q11.2
+HGNC:12076	TRAJ45	T cell receptor alpha joining 45	Approved	T cell receptor gene			14q11.2	28710	ENSG00000211844	OTTHUMG00000170922	371	T cell receptor alpha locus at 14q11.2
+HGNC:12077	TRAJ46	T cell receptor alpha joining 46	Approved	T cell receptor gene			14q11.2	28709	ENSG00000211843	OTTHUMG00000170921	371	T cell receptor alpha locus at 14q11.2
+HGNC:12078	TRAJ47	T cell receptor alpha joining 47	Approved	T cell receptor gene			14q11.2	28708	ENSG00000211842	OTTHUMG00000170920	371	T cell receptor alpha locus at 14q11.2
+HGNC:12079	TRAJ48	T cell receptor alpha joining 48	Approved	T cell receptor gene			14q11.2	28707	ENSG00000211841	OTTHUMG00000170919	371	T cell receptor alpha locus at 14q11.2
+HGNC:12080	TRAJ49	T cell receptor alpha joining 49	Approved	T cell receptor gene			14q11.2	28706	ENSG00000211840	OTTHUMG00000170918	371	T cell receptor alpha locus at 14q11.2
+HGNC:12082	TRAJ50	T cell receptor alpha joining 50	Approved	T cell receptor gene			14q11.2	28705	ENSG00000211839	OTTHUMG00000170917	371	T cell receptor alpha locus at 14q11.2
+HGNC:12083	TRAJ51	T cell receptor alpha joining 51 (pseudogene)	Approved	T cell receptor pseudogene			14q11.2	28704	ENSG00000248366	OTTHUMG00000170916	371	T cell receptor alpha locus at 14q11.2
+HGNC:12084	TRAJ52	T cell receptor alpha joining 52	Approved	T cell receptor gene			14q11.2	28703	ENSG00000211838	OTTHUMG00000170915	371	T cell receptor alpha locus at 14q11.2
+HGNC:12085	TRAJ53	T cell receptor alpha joining 53	Approved	T cell receptor gene			14q11.2	28702	ENSG00000211837	OTTHUMG00000170914	371	T cell receptor alpha locus at 14q11.2
+HGNC:12086	TRAJ54	T cell receptor alpha joining 54	Approved	T cell receptor gene			14q11.2	28701	ENSG00000211836	OTTHUMG00000170913	371	T cell receptor alpha locus at 14q11.2
+HGNC:12147	TRAV8-2	T cell receptor alpha variable 8-2	Approved	T cell receptor gene			14q11.2	28684	ENSG00000211786	OTTHUMG00000168991	371	T cell receptor alpha locus at 14q11.2
+HGNC:12087	TRAJ55	T cell receptor alpha joining 55 (pseudogene)	Approved	T cell receptor pseudogene			14q11.2	28700	ENSG00000250688	OTTHUMG00000170912	371	T cell receptor alpha locus at 14q11.2
+HGNC:12088	TRAJ56	T cell receptor alpha joining 56	Approved	T cell receptor gene			14q11.2	28699	ENSG00000211835	OTTHUMG00000170911	371	T cell receptor alpha locus at 14q11.2
+HGNC:12089	TRAJ57	T cell receptor alpha joining 57	Approved	T cell receptor gene			14q11.2	28698	ENSG00000211834	OTTHUMG00000170910	371	T cell receptor alpha locus at 14q11.2
+HGNC:12090	TRAJ58	T cell receptor alpha joining 58 (non-functional)	Approved	T cell receptor gene			14q11.2	28697	ENSG00000211833	OTTHUMG00000170909	371	T cell receptor alpha locus at 14q11.2
+HGNC:12091	TRAJ59	T cell receptor alpha joining 59 (non-functional)	Approved	T cell receptor gene			14q11.2	28696	ENSG00000211832	OTTHUMG00000170908	371	T cell receptor alpha locus at 14q11.2
+HGNC:12093	TRAJ60	T cell receptor alpha joining 60 (pseudogene)	Approved	T cell receptor pseudogene			14q11.2	28695	ENSG00000249446	OTTHUMG00000170907	371	T cell receptor alpha locus at 14q11.2
+HGNC:12094	TRAJ61	T cell receptor alpha joining 61 (non-functional)	Approved	T cell receptor gene			14q11.2	28694	ENSG00000211831	OTTHUMG00000170906	371	T cell receptor alpha locus at 14q11.2
+HGNC:12029	TRAC	T cell receptor alpha constant	Approved	T cell receptor gene			14q11.2	28755	ENSG00000277734	OTTHUMG00000028683	371	T cell receptor alpha locus at 14q11.2
+HGNC:12148	TRAV8-3	T cell receptor alpha variable 8-3	Approved	T cell receptor gene			14q11.2	28683	ENSG00000211787	OTTHUMG00000168992	371	T cell receptor alpha locus at 14q11.2
+HGNC:12149	TRAV8-4	T cell receptor alpha variable 8-4	Approved	T cell receptor gene			14q11.2	28682	ENSG00000211790	OTTHUMG00000168995	371	T cell receptor alpha locus at 14q11.2
+HGNC:12150	TRAV8-5	T cell receptor alpha variable 8-5 (pseudogene)	Approved	T cell receptor pseudogene		TRAV85, TCRAV8S5	14q11.2	28681	ENSG00000256379	OTTHUMG00000168996	371	T cell receptor alpha locus at 14q11.2
+HGNC:12151	TRAV8-6	T cell receptor alpha variable 8-6	Approved	T cell receptor gene			14q11.2	28680	ENSG00000211795	OTTHUMG00000170641	371	T cell receptor alpha locus at 14q11.2
+HGNC:12152	TRAV8-7	T cell receptor alpha variable 8-7 (pseudogene)	Approved	T cell receptor pseudogene			14q11.2	28679	ENSG00000211808	OTTHUMG00000170655	371	T cell receptor alpha locus at 14q11.2
+HGNC:12153	TRAV9-1	T cell receptor alpha variable 9-1	Approved	T cell receptor gene			14q11.2	28678	ENSG00000211783	OTTHUMG00000168987	371	T cell receptor alpha locus at 14q11.2
+HGNC:12154	TRAV9-2	T cell receptor alpha variable 9-2	Approved	T cell receptor gene			14q11.2	28677	ENSG00000211793	OTTHUMG00000170637	371	T cell receptor alpha locus at 14q11.2
+HGNC:12103	TRAV10	T cell receptor alpha variable 10	Approved	T cell receptor gene		TCRAV10S1, TCRAV24S1	14q11.2	28676	ENSG00000211784	OTTHUMG00000168988	371	T cell receptor alpha locus at 14q11.2
+HGNC:12101	TRAV1-1	T cell receptor alpha variable 1-1	Approved	T cell receptor gene		TRAV11, TCRAV1S1, TCRAV7S1	14q11.2	28693	ENSG00000255569	OTTHUMG00000168977	371	T cell receptor alpha locus at 14q11.2
+HGNC:12104	TRAV11	T cell receptor alpha variable 11 (pseudogene)	Approved	T cell receptor pseudogene			14q11.2	28675	ENSG00000256474	OTTHUMG00000168989	371	T cell receptor alpha locus at 14q11.2
+HGNC:12105	TRAV12-1	T cell receptor alpha variable 12-1	Approved	T cell receptor gene			14q11.2	28674	ENSG00000211785	OTTHUMG00000168990	371	T cell receptor alpha locus at 14q11.2
+HGNC:12106	TRAV12-2	T cell receptor alpha variable 12-2	Approved	T cell receptor gene			14q11.2	28673	ENSG00000211789	OTTHUMG00000168994	371	T cell receptor alpha locus at 14q11.2
+HGNC:12107	TRAV12-3	T cell receptor alpha variable 12-3	Approved	T cell receptor gene		TRAV123, TCRAV2S2, TCRAV12S3	14q11.2	28672	ENSG00000211794	OTTHUMG00000170640	371	T cell receptor alpha locus at 14q11.2
+HGNC:12108	TRAV13-1	T cell receptor alpha variable 13-1	Approved	T cell receptor gene			14q11.2	28671	ENSG00000211788	OTTHUMG00000168993	371	T cell receptor alpha locus at 14q11.2
+HGNC:12109	TRAV13-2	T cell receptor alpha variable 13-2	Approved	T cell receptor gene			14q11.2	28670	ENSG00000211791	OTTHUMG00000168997	371	T cell receptor alpha locus at 14q11.2
+HGNC:12110	TRAV14DV4	T cell receptor alpha variable 14/delta variable 4	Approved	T cell receptor gene		TRAV14/DV4, TCRAV6S1-hDV104S1, hADV14S1	14q11.2	28669	ENSG00000211792	OTTHUMG00000168998	371	T cell receptor alpha locus at 14q11.2
+HGNC:12111	TRAV15	T cell receptor alpha variable 15 (pseudogene)	Approved	T cell receptor pseudogene		TCRAV15S1	14q11.2	28668	ENSG00000258482	OTTHUMG00000170638	371	T cell receptor alpha locus at 14q11.2
+HGNC:12112	TRAV16	T cell receptor alpha variable 16	Approved	T cell receptor gene		TCRAV16S1, TCRAV9S1	14q11.2	28667	ENSG00000211796	OTTHUMG00000170642	371	T cell receptor alpha locus at 14q11.2
+HGNC:12113	TRAV17	T cell receptor alpha variable 17	Approved	T cell receptor gene		TCRAV17S1, TCRAV3S1	14q11.2	28666	ENSG00000211797	OTTHUMG00000170643	371	T cell receptor alpha locus at 14q11.2
+HGNC:12102	TRAV1-2	T cell receptor alpha variable 1-2	Approved	T cell receptor gene			14q11.2	28692	ENSG00000256553	OTTHUMG00000168978	371	T cell receptor alpha locus at 14q11.2
+HGNC:12114	TRAV18	T cell receptor alpha variable 18	Approved	T cell receptor gene		TCRAV18S1	14q11.2	28665	ENSG00000211798	OTTHUMG00000170644	371	T cell receptor alpha locus at 14q11.2
+HGNC:12115	TRAV19	T cell receptor alpha variable 19	Approved	T cell receptor gene		TCRAV12S1, TCRAV19S1	14q11.2	28664	ENSG00000211799	OTTHUMG00000170645	371	T cell receptor alpha locus at 14q11.2
+HGNC:12117	TRAV20	T cell receptor alpha variable 20	Approved	T cell receptor gene			14q11.2	28663	ENSG00000211800	OTTHUMG00000170647	371	T cell receptor alpha locus at 14q11.2
+HGNC:12118	TRAV21	T cell receptor alpha variable 21	Approved	T cell receptor gene			14q11.2	28662	ENSG00000211801	OTTHUMG00000170648	371	T cell receptor alpha locus at 14q11.2
+HGNC:12119	TRAV22	T cell receptor alpha variable 22	Approved	T cell receptor gene		TCRAV13S1, TCRAV22S1	14q11.2	28661	ENSG00000211802	OTTHUMG00000170649	371	T cell receptor alpha locus at 14q11.2
+HGNC:12120	TRAV23DV6	T cell receptor alpha variable 23/delta variable 6	Approved	T cell receptor gene		TRAV23/DV6, TCRAV17S1	14q11.2	28660	ENSG00000211803	OTTHUMG00000170650	371	T cell receptor alpha locus at 14q11.2
+HGNC:12121	TRAV24	T cell receptor alpha variable 24	Approved	T cell receptor gene			14q11.2	28659	ENSG00000211805	OTTHUMG00000170652	371	T cell receptor alpha locus at 14q11.2
+HGNC:12122	TRAV25	T cell receptor alpha variable 25	Approved	T cell receptor gene		TCRAV25S1, TCRAV32S1	14q11.2	28658	ENSG00000211806	OTTHUMG00000170653	371	T cell receptor alpha locus at 14q11.2
+HGNC:12123	TRAV26-1	T cell receptor alpha variable 26-1	Approved	T cell receptor gene			14q11.2	28657	ENSG00000211807	OTTHUMG00000170654	371	T cell receptor alpha locus at 14q11.2
+HGNC:12124	TRAV26-2	T cell receptor alpha variable 26-2	Approved	T cell receptor gene		TRAV262, TCRAV4S1, TCRAV26S2	14q11.2	28656	ENSG00000211812	OTTHUMG00000170663	371	T cell receptor alpha locus at 14q11.2
+HGNC:12116	TRAV2	T cell receptor alpha variable 2	Approved	T cell receptor gene			14q11.2	28691	ENSG00000211776	OTTHUMG00000168980	371	T cell receptor alpha locus at 14q11.2
+HGNC:12125	TRAV27	T cell receptor alpha variable 27	Approved	T cell receptor gene			14q11.2	28655	ENSG00000211809	OTTHUMG00000170656	371	T cell receptor alpha locus at 14q11.2
+HGNC:12126	TRAV28	T cell receptor alpha variable 28 (pseudogene)	Approved	T cell receptor pseudogene			14q11.2	28654	ENSG00000258835	OTTHUMG00000170657	371	T cell receptor alpha locus at 14q11.2
+HGNC:12127	TRAV29DV5	T cell receptor alpha variable 29/delta variable 5	Approved	T cell receptor gene		TRAV29/DV5	14q11.2	28653	ENSG00000211810	OTTHUMG00000170658	371	T cell receptor alpha locus at 14q11.2
+HGNC:12129	TRAV30	T cell receptor alpha variable 30	Approved	T cell receptor gene			14q11.2	28652	ENSG00000259092	OTTHUMG00000170659	371	T cell receptor alpha locus at 14q11.2
+HGNC:12130	TRAV31	T cell receptor alpha variable 31 (pseudogene)	Approved	T cell receptor pseudogene		TCRAV31S1	14q11.2	28651	ENSG00000249048	OTTHUMG00000170660	371	T cell receptor alpha locus at 14q11.2
+HGNC:12131	TRAV32	T cell receptor alpha variable 32 (pseudogene)	Approved	T cell receptor pseudogene			14q11.2	28650	ENSG00000258905	OTTHUMG00000170661	371	T cell receptor alpha locus at 14q11.2
+HGNC:12132	TRAV33	T cell receptor alpha variable 33 (pseudogene)	Approved	T cell receptor pseudogene		C14orf12	14q11.2	28649	ENSG00000258812	OTTHUMG00000170662	371	T cell receptor alpha locus at 14q11.2
+HGNC:12133	TRAV34	T cell receptor alpha variable 34	Approved	T cell receptor gene		TCRAV26S1, TCRAV34S1	14q11.2	28648	ENSG00000211813	OTTHUMG00000170664	371	T cell receptor alpha locus at 14q11.2
+HGNC:12134	TRAV35	T cell receptor alpha variable 35	Approved	T cell receptor gene		TCRAV25S1, TCRAV35S1	14q11.2	28647	ENSG00000211814	OTTHUMG00000170665	371	T cell receptor alpha locus at 14q11.2
+HGNC:12135	TRAV36DV7	T cell receptor alpha variable 36/delta variable 7	Approved	T cell receptor gene		TRAV36/DV7	14q11.2	28646	ENSG00000211815	OTTHUMG00000170666	371	T cell receptor alpha locus at 14q11.2
+HGNC:12128	TRAV3	T cell receptor alpha variable 3	Approved	T cell receptor gene			14q11.2	28690	ENSG00000211777	OTTHUMG00000168981	371	T cell receptor alpha locus at 14q11.2
+HGNC:12136	TRAV37	T cell receptor alpha variable 37 (pseudogene)	Approved	T cell receptor pseudogene			14q11.2	28645	ENSG00000259068	OTTHUMG00000170836	371	T cell receptor alpha locus at 14q11.2
+HGNC:12137	TRAV38-1	T cell receptor alpha variable 38-1	Approved	T cell receptor gene		TRAV381, TCRAV14S2, TCRAV38S1	14q11.2	28644	ENSG00000211816	OTTHUMG00000170837	371	T cell receptor alpha locus at 14q11.2
+HGNC:12138	TRAV38-2DV8	T cell receptor alpha variable 38-2/delta variable 8	Approved	T cell receptor gene		TRAV38-2/DV8, TRAV382DV8, TCRAV14S1, hADV38S2	14q11.2	28643	ENSG00000211817	OTTHUMG00000170838	371	T cell receptor alpha locus at 14q11.2
+HGNC:12139	TRAV39	T cell receptor alpha variable 39	Approved	T cell receptor gene		TCRAV27S1, TCRAV39S1	14q11.2	28642	ENSG00000211818	OTTHUMG00000170839	371	T cell receptor alpha locus at 14q11.2
+HGNC:12141	TRAV40	T cell receptor alpha variable 40	Approved	T cell receptor gene		TCRAV31S1, TCRAV40S1	14q11.2	28641	ENSG00000211819	OTTHUMG00000170840	371	T cell receptor alpha locus at 14q11.2
+HGNC:12142	TRAV41	T cell receptor alpha variable 41	Approved	T cell receptor gene		TCRAV19S1, TCRAV41S1	14q11.2	28640	ENSG00000211820	OTTHUMG00000170841	371	T cell receptor alpha locus at 14q11.2
+HGNC:12037	TRAJ1	T cell receptor alpha joining 1 (non-functional)	Approved	T cell receptor gene			14q11.2	28754	ENSG00000211888	OTTHUMG00000170966	371	T cell receptor alpha locus at 14q11.2
+HGNC:12048	TRAJ2	T cell receptor alpha joining 2 (non-functional)	Approved	T cell receptor gene			14q11.2	28753	ENSG00000211887	OTTHUMG00000170965	371	T cell receptor alpha locus at 14q11.2
+HGNC:12059	TRAJ3	T cell receptor alpha joining 3	Approved	T cell receptor gene			14q11.2	28752	ENSG00000211886	OTTHUMG00000170964	371	T cell receptor alpha locus at 14q11.2
+HGNC:12070	TRAJ4	T cell receptor alpha joining 4	Approved	T cell receptor gene			14q11.2	28751	ENSG00000211885	OTTHUMG00000170963	371	T cell receptor alpha locus at 14q11.2
+HGNC:12140	TRAV4	T cell receptor alpha variable 4	Approved	T cell receptor gene		TCRAV20S1, TCRAV4S1	14q11.2	28689	ENSG00000211778	OTTHUMG00000168982	371	T cell receptor alpha locus at 14q11.2
+HGNC:12081	TRAJ5	T cell receptor alpha joining 5	Approved	T cell receptor gene			14q11.2	28750	ENSG00000211884	OTTHUMG00000170962	371	T cell receptor alpha locus at 14q11.2
+HGNC:12092	TRAJ6	T cell receptor alpha joining 6	Approved	T cell receptor gene			14q11.2	28749	ENSG00000211883	OTTHUMG00000170961	371	T cell receptor alpha locus at 14q11.2
+HGNC:12095	TRAJ7	T cell receptor alpha joining 7	Approved	T cell receptor gene			14q11.2	28748	ENSG00000211882	OTTHUMG00000170960	371	T cell receptor alpha locus at 14q11.2
+HGNC:12096	TRAJ8	T cell receptor alpha joining 8	Approved	T cell receptor gene			14q11.2	28747	ENSG00000211881	OTTHUMG00000170959	371	T cell receptor alpha locus at 14q11.2
+HGNC:12097	TRAJ9	T cell receptor alpha joining 9	Approved	T cell receptor gene			14q11.2	28746	ENSG00000211880	OTTHUMG00000170958	371	T cell receptor alpha locus at 14q11.2
+HGNC:12038	TRAJ10	T cell receptor alpha joining 10	Approved	T cell receptor gene			14q11.2	28745	ENSG00000211879	OTTHUMG00000170957	371	T cell receptor alpha locus at 14q11.2
+HGNC:12039	TRAJ11	T cell receptor alpha joining 11	Approved	T cell receptor gene			14q11.2	28744	ENSG00000211878	OTTHUMG00000170956	371	T cell receptor alpha locus at 14q11.2
+HGNC:12040	TRAJ12	T cell receptor alpha joining 12	Approved	T cell receptor gene			14q11.2	28743	ENSG00000211877	OTTHUMG00000170955	371	T cell receptor alpha locus at 14q11.2
+HGNC:12041	TRAJ13	T cell receptor alpha joining 13	Approved	T cell receptor gene			14q11.2	28742	ENSG00000211876	OTTHUMG00000170954	371	T cell receptor alpha locus at 14q11.2
+HGNC:12042	TRAJ14	T cell receptor alpha joining 14	Approved	T cell receptor gene			14q11.2	28741	ENSG00000211875	OTTHUMG00000170953	371	T cell receptor alpha locus at 14q11.2
+HGNC:12143	TRAV5	T cell receptor alpha variable 5	Approved	T cell receptor gene			14q11.2	28688	ENSG00000211779	OTTHUMG00000168983	371	T cell receptor alpha locus at 14q11.2
+HGNC:12043	TRAJ15	T cell receptor alpha joining 15	Approved	T cell receptor gene			14q11.2	28740			371	T cell receptor alpha locus at 14q11.2
+HGNC:12044	TRAJ16	T cell receptor alpha joining 16	Approved	T cell receptor gene			14q11.2	28739	ENSG00000211873	OTTHUMG00000170951	371	T cell receptor alpha locus at 14q11.2
+HGNC:12045	TRAJ17	T cell receptor alpha joining 17	Approved	T cell receptor gene			14q11.2	28738	ENSG00000211872	OTTHUMG00000170950	371	T cell receptor alpha locus at 14q11.2
+HGNC:12046	TRAJ18	T cell receptor alpha joining 18	Approved	T cell receptor gene			14q11.2	28737	ENSG00000211871	OTTHUMG00000170949	371	T cell receptor alpha locus at 14q11.2
+HGNC:12047	TRAJ19	T cell receptor alpha joining 19 (non-functional)	Approved	T cell receptor gene			14q11.2	28736	ENSG00000211870	OTTHUMG00000170948	371	T cell receptor alpha locus at 14q11.2
+HGNC:12049	TRAJ20	T cell receptor alpha joining 20	Approved	T cell receptor gene			14q11.2	28735	ENSG00000211869	OTTHUMG00000170947	371	T cell receptor alpha locus at 14q11.2
+HGNC:12050	TRAJ21	T cell receptor alpha joining 21	Approved	T cell receptor gene			14q11.2	28734	ENSG00000211868	OTTHUMG00000170946	371	T cell receptor alpha locus at 14q11.2
+HGNC:12051	TRAJ22	T cell receptor alpha joining 22	Approved	T cell receptor gene			14q11.2	28733	ENSG00000211867	OTTHUMG00000170945	371	T cell receptor alpha locus at 14q11.2
+HGNC:12052	TRAJ23	T cell receptor alpha joining 23	Approved	T cell receptor gene			14q11.2	28732	ENSG00000211866	OTTHUMG00000170944	371	T cell receptor alpha locus at 14q11.2
+HGNC:12053	TRAJ24	T cell receptor alpha joining 24	Approved	T cell receptor gene			14q11.2	28731	ENSG00000211865	OTTHUMG00000170943	371	T cell receptor alpha locus at 14q11.2
+HGNC:12144	TRAV6	T cell receptor alpha variable 6	Approved	T cell receptor gene	TCRAV5S1		14q11.2	6956	ENSG00000211780	OTTHUMG00000168984	371	T cell receptor alpha locus at 14q11.2
+HGNC:12054	TRAJ25	T cell receptor alpha joining 25 (non-functional)	Approved	T cell receptor gene			14q11.2	28730	ENSG00000211864	OTTHUMG00000170942	371	T cell receptor alpha locus at 14q11.2
+HGNC:12055	TRAJ26	T cell receptor alpha joining 26	Approved	T cell receptor gene			14q11.2	28729	ENSG00000211863	OTTHUMG00000170941	371	T cell receptor alpha locus at 14q11.2
+HGNC:12056	TRAJ27	T cell receptor alpha joining 27	Approved	T cell receptor gene			14q11.2	28728	ENSG00000211862	OTTHUMG00000170940	371	T cell receptor alpha locus at 14q11.2
+HGNC:12057	TRAJ28	T cell receptor alpha joining 28	Approved	T cell receptor gene			14q11.2	28727	ENSG00000211861	OTTHUMG00000170939	371	T cell receptor alpha locus at 14q11.2
+HGNC:12058	TRAJ29	T cell receptor alpha joining 29	Approved	T cell receptor gene			14q11.2	28726	ENSG00000211860	OTTHUMG00000170938	371	T cell receptor alpha locus at 14q11.2
+HGNC:12060	TRAJ30	T cell receptor alpha joining 30	Approved	T cell receptor gene			14q11.2	28725	ENSG00000211859	OTTHUMG00000170937	371	T cell receptor alpha locus at 14q11.2
+HGNC:12061	TRAJ31	T cell receptor alpha joining 31	Approved	T cell receptor gene			14q11.2	28724	ENSG00000211858	OTTHUMG00000170936	371	T cell receptor alpha locus at 14q11.2
+HGNC:12062	TRAJ32	T cell receptor alpha joining 32	Approved	T cell receptor gene			14q11.2	28723	ENSG00000211857	OTTHUMG00000170935	371	T cell receptor alpha locus at 14q11.2
+HGNC:12063	TRAJ33	T cell receptor alpha joining 33	Approved	T cell receptor gene			14q11.2	28722	ENSG00000211856	OTTHUMG00000170934	371	T cell receptor alpha locus at 14q11.2
+HGNC:12064	TRAJ34	T cell receptor alpha joining 34	Approved	T cell receptor gene			14q11.2	28721	ENSG00000211855	OTTHUMG00000170933	371	T cell receptor alpha locus at 14q11.2
+HGNC:12145	TRAV7	T cell receptor alpha variable 7	Approved	T cell receptor gene			14q11.2	28686	ENSG00000211781	OTTHUMG00000168985	371	T cell receptor alpha locus at 14q11.2
+HGNC:12065	TRAJ35	T cell receptor alpha joining 35 (non-functional)	Approved	T cell receptor gene			14q11.2	28720	ENSG00000211854	OTTHUMG00000170932	371	T cell receptor alpha locus at 14q11.2
+HGNC:12066	TRAJ36	T cell receptor alpha joining 36	Approved	T cell receptor gene			14q11.2	28719	ENSG00000276699	OTTHUMG00000188544	371	T cell receptor alpha locus at 14q11.2
+HGNC:12067	TRAJ37	T cell receptor alpha joining 37	Approved	T cell receptor gene			14q11.2	28718	ENSG00000278661	OTTHUMG00000188542	371	T cell receptor alpha locus at 14q11.2
+HGNC:12068	TRAJ38	T cell receptor alpha joining 38	Approved	T cell receptor gene			14q11.2	28717	ENSG00000211851	OTTHUMG00000170929	371	T cell receptor alpha locus at 14q11.2
+HGNC:12069	TRAJ39	T cell receptor alpha joining 39	Approved	T cell receptor gene			14q11.2	28716	ENSG00000211850	OTTHUMG00000170928	371	T cell receptor alpha locus at 14q11.2
+HGNC:12071	TRAJ40	T cell receptor alpha joining 40	Approved	T cell receptor gene			14q11.2	28715	ENSG00000211849	OTTHUMG00000170927	371	T cell receptor alpha locus at 14q11.2
+HGNC:12072	TRAJ41	T cell receptor alpha joining 41	Approved	T cell receptor gene			14q11.2	28714	ENSG00000211848	OTTHUMG00000170926	371	T cell receptor alpha locus at 14q11.2
+HGNC:12073	TRAJ42	T cell receptor alpha joining 42	Approved	T cell receptor gene			14q11.2	28713	ENSG00000211847	OTTHUMG00000170925	371	T cell receptor alpha locus at 14q11.2
+HGNC:12074	TRAJ43	T cell receptor alpha joining 43	Approved	T cell receptor gene			14q11.2	28712	ENSG00000211846	OTTHUMG00000170924	371	T cell receptor alpha locus at 14q11.2
+HGNC:12075	TRAJ44	T cell receptor alpha joining 44	Approved	T cell receptor gene			14q11.2	28711	ENSG00000211845	OTTHUMG00000170923	371	T cell receptor alpha locus at 14q11.2
+HGNC:12197	TRBV20OR9-2	T cell receptor beta variable 20/OR9-2 (non-functional)	Approved	T cell receptor gene	TCRBV2O	TRBV20/OR9-2, TCRBV20S2, TCRBV2S2O	9p13.3	6962	ENSG00000205274	OTTHUMG00000019781	373	T cell receptor beta (TRB) orphons
+HGNC:12199	TRBV21OR9-2	T cell receptor beta variable 21/OR9-2 (pseudogene)	Approved	T cell receptor pseudogene	TCRBV10O	TRBV21/OR9-2, TCRBV10S2O, TCRBV21S2	9p13.3	6959	ENSG00000183938	OTTHUMG00000019783	373	T cell receptor beta (TRB) orphons
+HGNC:18740	TRBV22OR9-2	T cell receptor beta variable 22/OR9-2 (pseudogene)	Approved	T cell receptor pseudogene		TCRBV29S2O, TCRBV22S2, TRBV22/OR9-2	9p13.3	246283	ENSG00000234122	OTTHUMG00000000400	373	T cell receptor beta (TRB) orphons
+HGNC:12202	TRBV23OR9-2	T cell receptor beta variable 23/OR9-2 (pseudogene)	Approved	T cell receptor pseudogene		TRBV23/OR9-2, TRBV23OR92, TCRBV19S2O, TCRBV23S2	9p13.3	28552	ENSG00000229063	OTTHUMG00000019774	373	T cell receptor beta (TRB) orphons
+HGNC:12204	TRBV24OR9-2	T cell receptor beta variable 24/OR9-2 (pseudogene)	Approved	T cell receptor pseudogene	TCRBV15O	TRBV24/OR9-2, TCRBV15S2O, TCRBV24S2	9p13.3	6961	ENSG00000215206	OTTHUMG00000152869	373	T cell receptor beta (TRB) orphons
+HGNC:12206	TRBV25OR9-2	T cell receptor beta variable 25/OR9-2 (pseudogene)	Approved	T cell receptor pseudogene	TCRBV11O	TRBV25/OR9-2, TCRBV11S2O, TCRBV25S2	9p13.3	6960	ENSG00000240215	OTTHUMG00000019791	373	T cell receptor beta (TRB) orphons
+HGNC:15485	TRBV26OR9-2	T cell receptor beta variable 26/OR9-2 (pseudogene)	Approved	T cell receptor pseudogene		TRBV26/OR9-2, TCRBV28S2O, TCRBV28S2, TCRBV26S2	9p13.3	246285	ENSG00000231165	OTTHUMG00000000411	373	T cell receptor beta (TRB) orphons
+HGNC:12211	TRBV29OR9-2	T cell receptor beta variable 29/OR9-2 (non-functional)	Approved	T cell receptor gene	TCRBV4O	TRBV29/OR9-2, TCRBV29S2, TCRBV4S2O	9p13.3	6958	ENSG00000223394	OTTHUMG00000000415	373	T cell receptor beta (TRB) orphons
+HGNC:18741	TRBVAOR9-2	T cell receptor beta variable A/OR9-2 (pseudogene)	Approved	T cell receptor pseudogene		TRBVA/OR9-2, TCRBV33S2	9p21	246286			373	T cell receptor beta (TRB) orphons
+HGNC:12155	TRB	T cell receptor beta locus	Approved	gene with protein product	TCRB, TRB@		7q34	6957			372	T cell receptor beta locus at 7q34
+HGNC:12219	TRBV5-2	T cell receptor beta variable 5-2 (pseudogene)	Approved	T cell receptor pseudogene		TRBV52, TCRBV31S1, TCRBV5S2P	7q34	28613	ENSG00000242771	OTTHUMG00000158537	372	T cell receptor beta locus at 7q34
+HGNC:12220	TRBV5-3	T cell receptor beta variable 5-3 (non-functional)	Approved	T cell receptor gene		TRBV53, TCRBV5S3, TCRBV5S5P	7q34	28612	ENSG00000211715	OTTHUMG00000158510	372	T cell receptor beta locus at 7q34
+HGNC:12221	TRBV5-4	T cell receptor beta variable 5-4	Approved	T cell receptor gene		TRBV54, TCRBV5S4, TCRBV5S6A3N2T	7q34	28611	ENSG00000230099	OTTHUMG00000158524	372	T cell receptor beta locus at 7q34
+HGNC:12222	TRBV5-5	T cell receptor beta variable 5-5	Approved	T cell receptor gene		TRBV55, TCRBV5S3A2T, TCRBV5S5	7q34	28610	ENSG00000211725	OTTHUMG00000158512	372	T cell receptor beta locus at 7q34
+HGNC:12223	TRBV5-6	T cell receptor beta variable 5-6	Approved	T cell receptor gene		TRBV56, TCRBV5S2, TCRBV5S6	7q34	28609	ENSG00000211728	OTTHUMG00000158873	372	T cell receptor beta locus at 7q34
+HGNC:12224	TRBV5-7	T cell receptor beta variable 5-7 (non-functional)	Approved	T cell receptor gene		TRBV57, TCRBV5S7, TCRBV5S7P	7q34	28608	ENSG00000211731	OTTHUMG00000158897	372	T cell receptor beta locus at 7q34
+HGNC:12225	TRBV5-8	T cell receptor beta variable 5-8	Approved	T cell receptor gene		TRBV58, TCRBV5S4A2T, TCRBV5S8	7q34 alternate reference locus	28607			372	T cell receptor beta locus at 7q34
+HGNC:12226	TRBV6-1	T cell receptor beta variable 6-1	Approved	T cell receptor gene		TRBV61, TCRBV13S3, TCRBV6S1	7q34	28606	ENSG00000211706	OTTHUMG00000158531	372	T cell receptor beta locus at 7q34
+HGNC:12227	TRBV6-2	T cell receptor beta variable 6-2	Approved	T cell receptor gene		TRBV62, TCRBV13S2A1T, TCRBV6S2	7q34	28605	ENSG00000283063	OTTHUMG00000191598	372	T cell receptor beta locus at 7q34
+HGNC:12228	TRBV6-3	T cell receptor beta variable 6-3	Approved	T cell receptor gene		TRBV63, TCRBV13S9/13S2A1T, TCRBV6S3	7q34 alternate reference locus	28604			372	T cell receptor beta locus at 7q34
+HGNC:12176	TRBV1	T cell receptor beta variable 1 (pseudogene)	Approved	T cell receptor pseudogene		TCRBV27S1P, TCRBV1S1P	7q34	28621	ENSG00000242736	OTTHUMG00000158515	372	T cell receptor beta locus at 7q34
+HGNC:12229	TRBV6-4	T cell receptor beta variable 6-4	Approved	T cell receptor gene		TRBV64, TCRBV13S5, TCRBV6S4	7q34	28603	ENSG00000211713	OTTHUMG00000158533	372	T cell receptor beta locus at 7q34
+HGNC:12230	TRBV6-5	T cell receptor beta variable 6-5	Approved	T cell receptor gene		TRBV65, TCRBV13S1, TCRBV6S5	7q34	28602	ENSG00000211721	OTTHUMG00000158519	372	T cell receptor beta locus at 7q34
+HGNC:12231	TRBV6-6	T cell receptor beta variable 6-6	Approved	T cell receptor gene		TRBV66, TCRBV13S6A2T, TCRBV6S6	7q34	28601	ENSG00000211724	OTTHUMG00000158509	372	T cell receptor beta locus at 7q34
+HGNC:12232	TRBV6-7	T cell receptor beta variable 6-7 (non-functional)	Approved	T cell receptor gene		TRBV67, TCRBV13S8P, TCRBV6S7	7q34	28600	ENSG00000253188	OTTHUMG00000158511	372	T cell receptor beta locus at 7q34
+HGNC:12233	TRBV6-8	T cell receptor beta variable 6-8	Approved	T cell receptor gene		TRBV68, TCRBV13S7P, TCRBV6S8	7q34	28599	ENSG00000253534	OTTHUMG00000158916	372	T cell receptor beta locus at 7q34
+HGNC:12234	TRBV6-9	T cell receptor beta variable 6-9	Approved	T cell receptor gene		TRBV69, TCRBV13S4, TCRBV6S9	7q34 alternate reference locus	28598			372	T cell receptor beta locus at 7q34
+HGNC:12235	TRBV7-1	T cell receptor beta variable 7-1 (non-functional)	Approved	T cell receptor gene		TRBV71, TCRBV6S7P, TCRBV7S1	7q34	28597	ENSG00000211707	OTTHUMG00000158529	372	T cell receptor beta locus at 7q34
+HGNC:12236	TRBV7-2	T cell receptor beta variable 7-2	Approved	T cell receptor gene		TRBV72, TCRBV6S5A1N1, TCRBV7S2	7q34	28596	ENSG00000282939	OTTHUMG00000191599	372	T cell receptor beta locus at 7q34
+HGNC:12237	TRBV7-3	T cell receptor beta variable 7-3	Approved	T cell receptor gene		TRBV73, TCRBV6S1A1N1, TCRBV7S3	7q34	28595	ENSG00000211714	OTTHUMG00000158528	372	T cell receptor beta locus at 7q34
+HGNC:12238	TRBV7-4	T cell receptor beta variable 7-4	Approved	T cell receptor gene		TRBV74, TCRBV6S8A2T, TCRBV7S4	7q34	28594	ENSG00000253409	OTTHUMG00000158508	372	T cell receptor beta locus at 7q34
+HGNC:12195	TRBV2	T cell receptor beta variable 2	Approved	T cell receptor gene		TCRBV22S1A2N1T, TCRBV2S1	7q34	28620	ENSG00000226660	OTTHUMG00000158532	372	T cell receptor beta locus at 7q34
+HGNC:12239	TRBV7-5	T cell receptor beta variable 7-5 (pseudogene)	Approved	T cell receptor pseudogene		TRBV75, TCRBV6S9P, TCRBV7S5	7q34	28593	ENSG00000227550	OTTHUMG00000158506	372	T cell receptor beta locus at 7q34
+HGNC:12240	TRBV7-6	T cell receptor beta variable 7-6	Approved	T cell receptor gene		TRBV76, TCRBV6S3A1N1T, TCRBV7S6	7q34	28592	ENSG00000211727	OTTHUMG00000158882	372	T cell receptor beta locus at 7q34
+HGNC:12241	TRBV7-7	T cell receptor beta variable 7-7	Approved	T cell receptor gene		TRBV77, TCRBV6S6A2T, TCRBV7S7	7q34	28591	ENSG00000253291	OTTHUMG00000158872	372	T cell receptor beta locus at 7q34
+HGNC:12242	TRBV7-8	T cell receptor beta variable 7-8	Approved	T cell receptor gene		TRBV78, TCRBV6S2A1N1T, TCRBV7S8	7q34 alternate reference locus	28590			372	T cell receptor beta locus at 7q34
+HGNC:12243	TRBV7-9	T cell receptor beta variable 7-9	Approved	T cell receptor gene		TRBV79, TCRBV6S4A1, TCRBV7S9	7q34	28589	ENSG00000278030	OTTHUMG00000188552	372	T cell receptor beta locus at 7q34
+HGNC:12244	TRBV8-1	T cell receptor beta variable 8-1 (pseudogene)	Approved	T cell receptor pseudogene		TRBV81, TCRBV30S1P, TCRBV8S1P	7q34	28588	ENSG00000243889	OTTHUMG00000158518	372	T cell receptor beta locus at 7q34
+HGNC:12245	TRBV8-2	T cell receptor beta variable 8-2 (pseudogene)	Approved	T cell receptor pseudogene		TRBV82, TCRBV32S1P	7q34	28587	ENSG00000239944	OTTHUMG00000158530	372	T cell receptor beta locus at 7q34
+HGNC:12246	TRBV9	T cell receptor beta variable 9	Approved	T cell receptor gene		TCRBV1S1A1N1, TCRBV9S1	7q34	28586	ENSG00000211716	OTTHUMG00000158527	372	T cell receptor beta locus at 7q34
+HGNC:12177	TRBV10-1	T cell receptor beta variable 10-1	Approved	T cell receptor gene		TRBV101, TCRBV10S1, TCRBV12S2A1T, TCRBV12S2	7q34	28585	ENSG00000211717	OTTHUMG00000158514	372	T cell receptor beta locus at 7q34
+HGNC:12178	TRBV10-2	T cell receptor beta variable 10-2	Approved	T cell receptor gene		TRBV102, TCRBV10S2, TCRBV12S3	7q34	28584	ENSG00000229769	OTTHUMG00000158535	372	T cell receptor beta locus at 7q34
+HGNC:12212	TRBV3-1	T cell receptor beta variable 3-1	Approved	T cell receptor gene		TRBV31, TCRBV3S1, TCRBV9S1A1T	7q34	28619	ENSG00000237702	OTTHUMG00000158526	372	T cell receptor beta locus at 7q34
+HGNC:12179	TRBV10-3	T cell receptor beta variable 10-3	Approved	T cell receptor gene		TRBV103, TCRBV10S3, TCRBV12S1A1N2	7q34	28583	ENSG00000275791	OTTHUMG00000188554	372	T cell receptor beta locus at 7q34
+HGNC:12180	TRBV11-1	T cell receptor beta variable 11-1	Approved	T cell receptor gene		TRBV111, TCRBV11S1, TCRBV21S1	7q34	28582	ENSG00000211720	OTTHUMG00000158505	372	T cell receptor beta locus at 7q34
+HGNC:12181	TRBV11-2	T cell receptor beta variable 11-2	Approved	T cell receptor gene		TRBV112, TCRBV11S2, TCRBV21S3A2N2T	7q34	28581	ENSG00000241657	OTTHUMG00000158536	372	T cell receptor beta locus at 7q34
+HGNC:12182	TRBV11-3	T cell receptor beta variable 11-3	Approved	T cell receptor gene		TRBV113, TCRBV11S3, TCRBV21S2A2	7q34	28580	ENSG00000276597	OTTHUMG00000188555	372	T cell receptor beta locus at 7q34
+HGNC:12183	TRBV12-1	T cell receptor beta variable 12-1 (pseudogene)	Approved	T cell receptor pseudogene		TRBV121, TCRBV12S1, TCRBV8S4P	7q34	28579	ENSG00000244661	OTTHUMG00000158507	372	T cell receptor beta locus at 7q34
+HGNC:12184	TRBV12-2	T cell receptor beta variable 12-2 (pseudogene)	Approved	T cell receptor pseudogene		TRBV122, TCRBV12S2, TCRBV8S5P	7q34	28578	ENSG00000211739	OTTHUMG00000158523	372	T cell receptor beta locus at 7q34
+HGNC:12185	TRBV12-3	T cell receptor beta variable 12-3	Approved	T cell receptor gene		TRBV123, TCRBV12S3, TCRBV8S1	7q34	28577	ENSG00000274752	OTTHUMG00000188556	372	T cell receptor beta locus at 7q34
+HGNC:12186	TRBV12-4	T cell receptor beta variable 12-4	Approved	T cell receptor gene		TRBV124, TCRBV12S4, TCRBV8S2A1T	7q34	28576	ENSG00000276953	OTTHUMG00000188557	372	T cell receptor beta locus at 7q34
+HGNC:12187	TRBV12-5	T cell receptor beta variable 12-5	Approved	T cell receptor gene		TRBV125, TCRBV12S5, TCRBV8S3	7q34	28575	ENSG00000275158	OTTHUMG00000188558	372	T cell receptor beta locus at 7q34
+HGNC:12188	TRBV13	T cell receptor beta variable 13	Approved	T cell receptor gene		TCRBV13S1, TCRBV23S1A2T	7q34	28574	ENSG00000276405	OTTHUMG00000188553	372	T cell receptor beta locus at 7q34
+HGNC:12213	TRBV3-2	T cell receptor beta variable 3-2 (pseudogene)	Approved	T cell receptor pseudogene		TRBV32, TCRBV3S2, TCRBV9S2A2PT	7q34 alternate reference locus	28618			372	T cell receptor beta locus at 7q34
+HGNC:12189	TRBV14	T cell receptor beta variable 14	Approved	T cell receptor gene		TCRBV14S1, TCRBV16S1A1N1	7q34	28573	ENSG00000275743	OTTHUMG00000188559	372	T cell receptor beta locus at 7q34
+HGNC:12190	TRBV15	T cell receptor beta variable 15	Approved	T cell receptor gene		TCRBV15S1, TCRBV24S1A3T	7q34	28572	ENSG00000276819	OTTHUMG00000188560	372	T cell receptor beta locus at 7q34
+HGNC:12191	TRBV16	T cell receptor beta variable 16	Approved	T cell receptor gene		TCRBV16S1, TCRBV25S1A2PT	7q34	28571	ENSG00000275243	OTTHUMG00000188561	372	T cell receptor beta locus at 7q34
+HGNC:12192	TRBV17	T cell receptor beta variable 17 (non-functional)	Approved	T cell receptor gene		TCRBV17S1, TCRBV26S1P	7q34	28570	ENSG00000277880	OTTHUMG00000188562	372	T cell receptor beta locus at 7q34
+HGNC:12193	TRBV18	T cell receptor beta variable 18	Approved	T cell receptor gene		TCRBV18S1	7q34	28569	ENSG00000276557	OTTHUMG00000188563	372	T cell receptor beta locus at 7q34
+HGNC:12194	TRBV19	T cell receptor beta variable 19	Approved	T cell receptor gene		TCRBV17S1A1T, TCRBV19S1	7q34	28568	ENSG00000211746	OTTHUMG00000158877	372	T cell receptor beta locus at 7q34
+HGNC:12196	TRBV20-1	T cell receptor beta variable 20-1	Approved	T cell receptor gene		TRBV201, TCRBV20S1, TCRBV2S1	7q34	28567	ENSG00000211747	OTTHUMG00000158899	372	T cell receptor beta locus at 7q34
+HGNC:12198	TRBV21-1	T cell receptor beta variable 21-1 (pseudogene)	Approved	T cell receptor pseudogene		TRBV211, TCRBV10S1P, TCRBV21S1	7q34	28566	ENSG00000251578	OTTHUMG00000158880	372	T cell receptor beta locus at 7q34
+HGNC:12200	TRBV22-1	T cell receptor beta variable 22-1 (pseudogene)	Approved	T cell receptor pseudogene	TRBV22	TCRBV22S1, TCRBV29S1P	7q34	28565	ENSG00000240578	OTTHUMG00000158895	372	T cell receptor beta locus at 7q34
+HGNC:12201	TRBV23-1	T cell receptor beta variable 23-1 (non-functional)	Approved	T cell receptor gene		TRBV231, TCRBV19S1P, TCRBV23S1	7q34	28564	ENSG00000211749	OTTHUMG00000158920	372	T cell receptor beta locus at 7q34
+HGNC:12215	TRBV4-1	T cell receptor beta variable 4-1	Approved	T cell receptor gene		TRBV41, TCRBV4S1, TCRBV7S1A1N2T, BV07S1J2.7	7q34	28617	ENSG00000211710	OTTHUMG00000158522	372	T cell receptor beta locus at 7q34
+HGNC:12203	TRBV24-1	T cell receptor beta variable 24-1	Approved	T cell receptor gene		TRBV241, TCRBV15S1, TCRBV24S1	7q34	28563	ENSG00000211750	OTTHUMG00000158889	372	T cell receptor beta locus at 7q34
+HGNC:12205	TRBV25-1	T cell receptor beta variable 25-1	Approved	T cell receptor gene		TRBV251, TCRBV11S1A1T, TCRBV25S1	7q34	28562	ENSG00000282499	OTTHUMG00000158868	372	T cell receptor beta locus at 7q34
+HGNC:12207	TRBV26	T cell receptor beta variable 26 (pseudogene)	Approved	T cell receptor pseudogene		TCRBV26S1, TCRBV28S1P	7q34	28561	ENSG00000249912	OTTHUMG00000158928	372	T cell receptor beta locus at 7q34
+HGNC:12208	TRBV27	T cell receptor beta variable 27	Approved	T cell receptor gene		TCRBV14S1, TCRBV27S1	7q34	28560	ENSG00000211752	OTTHUMG00000158924	372	T cell receptor beta locus at 7q34
+HGNC:12209	TRBV28	T cell receptor beta variable 28	Approved	T cell receptor gene		TCRBV28S1, TCRBV3S1	7q34	28559	ENSG00000211753	OTTHUMG00000158900	372	T cell receptor beta locus at 7q34
+HGNC:12210	TRBV29-1	T cell receptor beta variable 29-1	Approved	T cell receptor gene		TRBV291, TCRBV29S1, TCRBV4S1A1T	7q34	28558	ENSG00000232869	OTTHUMG00000158898	372	T cell receptor beta locus at 7q34
+HGNC:12214	TRBV30	T cell receptor beta variable 30	Approved	T cell receptor gene		TCRBV20S1A1N2, TCRBV30S1	7q34	28557	ENSG00000237254	OTTHUMG00000158907	372	T cell receptor beta locus at 7q34
+HGNC:12247	TRBVA	T cell receptor beta variable A (pseudogene)	Approved	T cell receptor pseudogene		TCRBV33S1	7q34	28556	ENSG00000239992	OTTHUMG00000158911	372	T cell receptor beta locus at 7q34
+HGNC:12248	TRBVB	T cell receptor beta variable B (pseudogene)	Approved	T cell receptor pseudogene		TCRBV34S1	7q34	28555	ENSG00000241911	OTTHUMG00000158869	372	T cell receptor beta locus at 7q34
+HGNC:12158	TRBD1	T cell receptor beta diversity 1	Approved	T cell receptor gene		TCRBD1	7q34	28637	ENSG00000282431	OTTHUMG00000190602	372	T cell receptor beta locus at 7q34
+HGNC:50321	TRBVC	T cell receptor beta variable C	Approved	T cell receptor gene			7q34	103106900			372	T cell receptor beta locus at 7q34
+HGNC:12216	TRBV4-2	T cell receptor beta variable 4-2	Approved	T cell receptor gene		TRBV42, TCRBV4S2, TCRBV7S3A2T	7q34	28616	ENSG00000211745	OTTHUMG00000158525	372	T cell receptor beta locus at 7q34
+HGNC:12159	TRBD2	T cell receptor beta diversity 2	Approved	T cell receptor gene		TCRBD2	7q34	28636			372	T cell receptor beta locus at 7q34
+HGNC:12162	TRBJ1-1	T cell receptor beta joining 1-1	Approved	T cell receptor gene		TRBJ11, TCRBJ1S1	7q34	28635	ENSG00000282320	OTTHUMG00000190603	372	T cell receptor beta locus at 7q34
+HGNC:12163	TRBJ1-2	T cell receptor beta joining 1-2	Approved	T cell receptor gene		TRBJ12, TCRBJ1S2	7q34	28634	ENSG00000282420	OTTHUMG00000190604	372	T cell receptor beta locus at 7q34
+HGNC:12164	TRBJ1-3	T cell receptor beta joining 1-3	Approved	T cell receptor gene		TRBJ13, TCRBJ1S3	7q34	28633	ENSG00000282133	OTTHUMG00000190605	372	T cell receptor beta locus at 7q34
+HGNC:12165	TRBJ1-4	T cell receptor beta joining 1-4	Approved	T cell receptor gene		TRBJ14, TCRBJ1S4	7q34	28632	ENSG00000281958	OTTHUMG00000190606	372	T cell receptor beta locus at 7q34
+HGNC:12166	TRBJ1-5	T cell receptor beta joining 1-5	Approved	T cell receptor gene		TRBJ15, TCRBJ1S5	7q34	28631	ENSG00000282173	OTTHUMG00000190607	372	T cell receptor beta locus at 7q34
+HGNC:12167	TRBJ1-6	T cell receptor beta joining 1-6	Approved	T cell receptor gene		TRBJ16, TCRBJ1S6	7q34	28630	ENSG00000282780	OTTHUMG00000190608	372	T cell receptor beta locus at 7q34
+HGNC:12168	TRBJ2-1	T cell receptor beta joining 2-1	Approved	T cell receptor gene		TRBJ21, TCRBJ2S1	7q34	28629	ENSG00000211764	OTTHUMG00000158918	372	T cell receptor beta locus at 7q34
+HGNC:12169	TRBJ2-2	T cell receptor beta joining 2-2	Approved	T cell receptor gene		TRBJ22, TCRBJ2S2	7q34	28628	ENSG00000211765	OTTHUMG00000158870	372	T cell receptor beta locus at 7q34
+HGNC:12170	TRBJ2-2P	T cell receptor beta joining 2-2P (non-functional)	Approved	T cell receptor gene		TRBJ22P	7q34	28627	ENSG00000211766	OTTHUMG00000158876	372	T cell receptor beta locus at 7q34
+HGNC:12217	TRBV4-3	T cell receptor beta variable 4-3	Approved	T cell receptor gene		TRBV43, TCRBV4S3, TCRBV7S2A1N4T	7q34 alternate reference locus	28615			372	T cell receptor beta locus at 7q34
+HGNC:12171	TRBJ2-3	T cell receptor beta joining 2-3	Approved	T cell receptor gene		TRBJ23, TCRBJ2S3	7q34	28626	ENSG00000211767	OTTHUMG00000158896	372	T cell receptor beta locus at 7q34
+HGNC:12172	TRBJ2-4	T cell receptor beta joining 2-4	Approved	T cell receptor gene		TRBJ24, TCRBJ2S4	7q34	28625	ENSG00000211768	OTTHUMG00000158888	372	T cell receptor beta locus at 7q34
+HGNC:12173	TRBJ2-5	T cell receptor beta joining 2-5	Approved	T cell receptor gene		TRBJ25, TCRBJ2S5	7q34	28624	ENSG00000211769	OTTHUMG00000158874	372	T cell receptor beta locus at 7q34
+HGNC:12174	TRBJ2-6	T cell receptor beta joining 2-6	Approved	T cell receptor gene		TRBJ26, TCRBJ2S6	7q34	28623	ENSG00000211770	OTTHUMG00000158913	372	T cell receptor beta locus at 7q34
+HGNC:12175	TRBJ2-7	T cell receptor beta joining 2-7	Approved	T cell receptor gene		TRBJ27, TCRBJ2S7	7q34	28622	ENSG00000211771	OTTHUMG00000158906	372	T cell receptor beta locus at 7q34
+HGNC:12156	TRBC1	T cell receptor beta constant 1	Approved	T cell receptor gene		TCRBC1, BV05S1J2.2	7q34	28639	ENSG00000211751	OTTHUMG00000190609	372	T cell receptor beta locus at 7q34
+HGNC:12157	TRBC2	T cell receptor beta constant 2	Approved	T cell receptor gene		TCRBC2	7q34	28638	ENSG00000211772	OTTHUMG00000158912	372	T cell receptor beta locus at 7q34
+HGNC:12218	TRBV5-1	T cell receptor beta variable 5-1	Approved	T cell receptor gene		TRBV51, TCRBV5S1, TCRBV5S1A1T	7q34	28614	ENSG00000211734	OTTHUMG00000158520	372	T cell receptor beta locus at 7q34
+HGNC:12252	TRD	T cell receptor delta locus	Approved	gene with protein product	TCRD, TRD@	TCRDV1	14q11.2	6964			374	T cell receptor delta locus at 14q11.2
+HGNC:12259	TRDJ3	T cell receptor delta joining 3	Approved	T cell receptor gene			14q11.2	28520	ENSG00000211828	OTTHUMG00000170904	374	T cell receptor delta locus at 14q11.2
+HGNC:12260	TRDJ4	T cell receptor delta joining 4	Approved	T cell receptor gene			14q11.2	28519	ENSG00000211826	OTTHUMG00000170902	374	T cell receptor delta locus at 14q11.2
+HGNC:12253	TRDC	T cell receptor delta constant	Approved	T cell receptor gene			14q11.2	28526	ENSG00000211829	OTTHUMG00000170905	374	T cell receptor delta locus at 14q11.2
+HGNC:12262	TRDV1	T cell receptor delta variable 1	Approved	T cell receptor gene		hDV101S1	14q11.2	28518	ENSG00000211804	OTTHUMG00000170651	374	T cell receptor delta locus at 14q11.2
+HGNC:12263	TRDV2	T cell receptor delta variable 2	Approved	T cell receptor gene		hDV102S1, MGC117421	14q11.2	28517	ENSG00000211821	OTTHUMG00000170843	374	T cell receptor delta locus at 14q11.2
+HGNC:12264	TRDV3	T cell receptor delta variable 3	Approved	T cell receptor gene		hDV103S1	14q11.2	28516	ENSG00000256590	OTTHUMG00000168896	374	T cell receptor delta locus at 14q11.2
+HGNC:12254	TRDD1	T cell receptor delta diversity 1	Approved	T cell receptor gene			14q11.2	28525	ENSG00000223997	OTTHUMG00000170844	374	T cell receptor delta locus at 14q11.2
+HGNC:12255	TRDD2	T cell receptor delta diversity 2	Approved	T cell receptor gene			14q11.2	28524	ENSG00000237235	OTTHUMG00000170845	374	T cell receptor delta locus at 14q11.2
+HGNC:12256	TRDD3	T cell receptor delta diversity 3	Approved	T cell receptor gene			14q11.2	28523	ENSG00000228985	OTTHUMG00000170846	374	T cell receptor delta locus at 14q11.2
+HGNC:12257	TRDJ1	T cell receptor delta joining 1	Approved	T cell receptor gene			14q11.2	28522	ENSG00000211825	OTTHUMG00000170847	374	T cell receptor delta locus at 14q11.2
+HGNC:12258	TRDJ2	T cell receptor delta joining 2	Approved	T cell receptor gene			14q11.2	28521	ENSG00000211827	OTTHUMG00000170903	374	T cell receptor delta locus at 14q11.2
+HGNC:12271	TRG	T cell receptor gamma locus	Approved	gene with protein product	TCRG, TRG@		7p14	6965			375	T cell receptor gamma locus at 7p14
+HGNC:12294	TRGV8	T cell receptor gamma variable 8	Approved	T cell receptor gene	TCRGV8	V1S8	7p14.1	6982	ENSG00000211696	OTTHUMG00000155098	375	T cell receptor gamma locus at 7p14
+HGNC:12295	TRGV9	T cell receptor gamma variable 9	Approved	T cell receptor gene	TCRGV9	V2	7p14.1	6983	ENSG00000211695	OTTHUMG00000155218	375	T cell receptor gamma locus at 7p14
+HGNC:12285	TRGV10	T cell receptor gamma variable 10 (non-functional)	Approved	T cell receptor gene	TCRGV10	V3P	7p14.1	6984	ENSG00000211694	OTTHUMG00000155223	375	T cell receptor gamma locus at 7p14
+HGNC:12286	TRGV11	T cell receptor gamma variable 11 (non-functional)	Approved	T cell receptor gene	TCRGV11	V4P	7p14.1	6985	ENSG00000211693	OTTHUMG00000155221	375	T cell receptor gamma locus at 7p14
+HGNC:12296	TRGVA	T cell receptor gamma variable A (pseudogene)	Approved	T cell receptor pseudogene	TCRGVA	V5P	7p14.1	6986	ENSG00000225992	OTTHUMG00000155224	375	T cell receptor gamma locus at 7p14
+HGNC:12297	TRGVB	T cell receptor gamma variable B (pseudogene)	Approved	T cell receptor pseudogene	TCRGVB	V6P	7p14.1	6987	ENSG00000231202	OTTHUMG00000155216	375	T cell receptor gamma locus at 7p14
+HGNC:12277	TRGJ1	T cell receptor gamma joining 1	Approved	T cell receptor gene	TCRGJ1	J1	7p14.1	6968	ENSG00000211690	OTTHUMG00000155214	375	T cell receptor gamma locus at 7p14
+HGNC:12278	TRGJ2	T cell receptor gamma joining 2	Approved	T cell receptor gene	TCRGJ2	J2	7p14.1	6969	ENSG00000211687	OTTHUMG00000155217	375	T cell receptor gamma locus at 7p14
+HGNC:12279	TRGJP	T cell receptor gamma joining P	Approved	T cell receptor gene	TCRGJP	JP	7p14.1	6970	ENSG00000211691	OTTHUMG00000155220	375	T cell receptor gamma locus at 7p14
+HGNC:12280	TRGJP1	T cell receptor gamma joining P1	Approved	T cell receptor gene	TCRGJP1	JP1	7p14.1	6971	ENSG00000211692	OTTHUMG00000155226	375	T cell receptor gamma locus at 7p14
+HGNC:12284	TRGV1	T cell receptor gamma variable 1 (non-functional)	Approved	T cell receptor gene	TCRGV1	V1S1P	7p14.1	6973	ENSG00000211701	OTTHUMG00000155097	375	T cell receptor gamma locus at 7p14
+HGNC:12281	TRGJP2	T cell receptor gamma joining P2	Approved	T cell receptor gene	TCRGJP2	JP2	7p14.1	6972	ENSG00000211688	OTTHUMG00000155222	375	T cell receptor gamma locus at 7p14
+HGNC:12275	TRGC1	T cell receptor gamma constant 1	Approved	T cell receptor gene	TCRGC1	C1	7p14.1	6966	ENSG00000211689	OTTHUMG00000155219	375	T cell receptor gamma locus at 7p14
+HGNC:12276	TRGC2	T cell receptor gamma constant 2	Approved	T cell receptor gene	TCRGC2	TRGC2(2X), TRGC2(3X)	7p14.1	6967	ENSG00000227191	OTTHUMG00000155215	375	T cell receptor gamma locus at 7p14
+HGNC:12287	TRGV2	T cell receptor gamma variable 2	Approved	T cell receptor gene	TCRGV2	VIS2	7p14.1	6974	ENSG00000233306	OTTHUMG00000155105	375	T cell receptor gamma locus at 7p14
+HGNC:12288	TRGV3	T cell receptor gamma variable 3	Approved	T cell receptor gene	TCRGV3	V1S3	7p14.1	6976	ENSG00000211699	OTTHUMG00000155102	375	T cell receptor gamma locus at 7p14
+HGNC:12289	TRGV4	T cell receptor gamma variable 4	Approved	T cell receptor gene	TCRGV4	V1S4	7p14.1	6977	ENSG00000211698	OTTHUMG00000155099	375	T cell receptor gamma locus at 7p14
+HGNC:12290	TRGV5	T cell receptor gamma variable 5	Approved	T cell receptor gene	TCRGV5	V1S5	7p14.1	6978	ENSG00000211697	OTTHUMG00000155101	375	T cell receptor gamma locus at 7p14
+HGNC:12291	TRGV5P	T cell receptor gamma variable 5P (pseudogene)	Approved	T cell receptor pseudogene	TCRGV5P	V1S5P	7p14.1	6979	ENSG00000228668	OTTHUMG00000155095	375	T cell receptor gamma locus at 7p14
+HGNC:12292	TRGV6	T cell receptor gamma variable 6 (pseudogene)	Approved	T cell receptor pseudogene	TCRGV6	V1S5P, TCRGV5P	7p14.1	6980	ENSG00000226212	OTTHUMG00000155096	375	T cell receptor gamma locus at 7p14
+HGNC:12293	TRGV7	T cell receptor gamma variable 7 (pseudogene)	Approved	T cell receptor pseudogene	TCRGV7	V1S7P	7p14.1	6981	ENSG00000249978	OTTHUMG00000155100	375	T cell receptor gamma locus at 7p14
